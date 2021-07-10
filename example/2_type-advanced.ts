@@ -2,7 +2,7 @@
 enum Avengers {
   Capt,
   Ironman,
-  Hulk,ㅁㄴ
+  Hulk,
 }
 const myHero = Avengers.Capt;
 
